@@ -10,8 +10,10 @@ PyYAML>=5.3.1
 scipy>=1.4.1
 torch==1.9.1
 torchvision==0.10.1
+# cudatoolkit==10.2
 tqdm>=4.41.0
 
+scikit-learn
 # plotting ------------------------------------
 
 seaborn>=0.11.0
@@ -24,3 +26,6 @@ easydict
 # Perspective Transform -----------------------
 
 pyflann-py3
+
+# eskil added
+requests
