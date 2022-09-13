@@ -8,9 +8,6 @@ from util.synthetic_util import SyntheticUtil
 from util.iou_util import IouUtil
 from util.projective_camera import ProjectiveCamera
 from util.iou_util import ut_homography_warp
-from utils import mouse_handler
-from utils import get_two_points
-
 
 from options.test_options import TestOptions
 from models.models import create_model
